@@ -1,16 +1,11 @@
-# SkyKings Development
+# :sparkles: SkyKings Development :sparkles:
 
 A home for SkyKings projects.
 
-## Discord Bot & API Documentation
+We don't have much open source stuff, but you can still contribute!
 
-You can find the source of [our Documentation](https://docs.skykings.net) here.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skykings-guild&repo=documentation&theme=cobalt)](https://github.com/SkyKings-Guild/documentation)
-
-## Translations/Bot Data
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skykings-guild&repo=translations&theme=cobalt)](https://github.com/SkyKings-Guild/translations)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skykings-guild&repo=bot-data&theme=cobalt)](https://github.com/SkyKings-Guild/bot-data)
+- :speech_balloon: Translate our Discord bot: [SkyKings-Guild/translations](https://github.com/SkyKings-Guild/translations)
+- :floppy_disk: Update some SkyBlock metadata: [SkyKings-Guild/bot-data](https://github.com/SkyKings-Guild/bot-data)
+- :notebook_with_decorative_cover: Update our documentation: [SkyKings-Guild/documentation](https://github.com/SkyKings-Guild/documentation)
+- :electric_plug: Make your guild a bridge bot: [Jacktheguys/Hypixel-Chat-Bot](https://github.com/Jacktheguys/Hypixel-Chat-Bot)
 
