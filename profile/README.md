@@ -1,6 +1,6 @@
-# :sparkles: SkyKings Development :sparkles:
+# :sparkles: SkyKings :sparkles:
 
-A home for SkyKings projects.
+Hey there! We build stuff here on GitHub! :octocat:
 
 We don't have much open source stuff, but you can still contribute!
 
